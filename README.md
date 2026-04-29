@@ -18,4 +18,4 @@ npm run dev
 
 Server:
 npm install
-npm run server
+\n npm run server
