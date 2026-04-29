@@ -14,8 +14,8 @@ React, TypeScript, Node.js, Prisma, OpenAI
 ## Run Project
 Client:
 npm install
-npm run dev
+/n npm run dev
 
 Server:
 npm install
-\n npm run server
+/n npm run server
